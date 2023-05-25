@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+  }
+  .static {
+    cursor: not-allowed;
+  }
+  .draggable {
+    cursor: pointer;
+  }
+  .edge {
+    cursor: crosshair;
+  }
+  
+#canvas {
+  position: relative;
+}
+#data{
+  position: absolute;
+  top: 50px;
+  right: 50px;
+}
+
+/*# sourceMappingURL=/src.a2b27638.css.map */
